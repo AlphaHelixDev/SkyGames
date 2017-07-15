@@ -1,0 +1,4 @@
+name: SkyGames
+version: ${project.version}
+main: de.alphahelix.skygames.SkyGames
+authors: [AlphaHelix]

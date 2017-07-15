@@ -1,12 +1,13 @@
 package de.alphahelix.skygames;
 
-import de.alphahelix.alphalibary.fakeapi.FakeAPI;
 
-public class SkyGames extends FakeAPI {
+import de.alphahelix.almcore.ALMCore;
+
+public class SkyGames extends ALMCore {
 
     @Override
     public void onEnable() {
         super.onEnable();
-
+        
     }
 }
